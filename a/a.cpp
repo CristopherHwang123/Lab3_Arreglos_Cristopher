@@ -70,7 +70,7 @@ int main() {
     imprimirArreglo(numeros, TAM, "Arreglo original");
     imprimirArreglo(mayores, cantidadMayores, "Mayores al promedio");
 
-    // Extra: ordenar y mostrar el arreglo filtrado
+
     ordenarDescendente(mayores, cantidadMayores);
     imprimirArreglo(mayores, cantidadMayores, "Mayores al promedio ordenados");
 
